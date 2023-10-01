@@ -1,1 +1,1 @@
-# simple-calculators
+The included C++ code implements a simple command-line calculator. The user enters an operator (+, -, *, /) and two numeric operands. The program then performs the specified arithmetic operation and displays the result. It uses a switch statement to handle different operators and provides error handling for invalid operator inputs.
